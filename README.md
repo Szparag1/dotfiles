@@ -1,2 +1,2 @@
 # dotfiles
-my linux apps config
+my linux apps configs for future use
